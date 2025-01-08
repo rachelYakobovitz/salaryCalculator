@@ -15,6 +15,7 @@ namespace SalaryIncreaseCalculator.Controllers
             _salaryCalculatorService = salaryCalculatorService;
         }
 
+        // חישוב שכר
         [HttpPost("calculate")]
         public ActionResult<SalaryCalculationResult> CalculateSalary([FromBody] EmployeeData employeeData)
         {
