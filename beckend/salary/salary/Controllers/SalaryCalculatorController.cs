@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Salary.models;
-using Salary.services;
+using salsryDB.models;
+using salaryServices.services;
 
 namespace SalaryIncreaseCalculator.Controllers
 {
@@ -8,9 +8,9 @@ namespace SalaryIncreaseCalculator.Controllers
     [Route("api/[controller]")]
     public class SalaryCalculatorController : ControllerBase
     {
-        private readonly SalaryCalculatorService _salaryCalculatorService;
+        private readonly ISalaryCalculatorService _salaryCalculatorService;
 
-        public SalaryCalculatorController(SalaryCalculatorService salaryCalculatorService)
+        public SalaryCalculatorController(ISalaryCalculatorService salaryCalculatorService)
         {
             _salaryCalculatorService = salaryCalculatorService;
         }

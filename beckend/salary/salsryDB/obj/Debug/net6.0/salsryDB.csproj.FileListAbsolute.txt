@@ -1,0 +1,12 @@
+C:\Users\The user\Desktop\‏‏תיקיה חדשה\salaryCalculator\beckend\salary\salsryDB\bin\Debug\net6.0\salsryDB.deps.json
+C:\Users\The user\Desktop\‏‏תיקיה חדשה\salaryCalculator\beckend\salary\salsryDB\bin\Debug\net6.0\salsryDB.dll
+C:\Users\The user\Desktop\‏‏תיקיה חדשה\salaryCalculator\beckend\salary\salsryDB\bin\Debug\net6.0\salsryDB.pdb
+C:\Users\The user\Desktop\‏‏תיקיה חדשה\salaryCalculator\beckend\salary\salsryDB\obj\Debug\net6.0\salsryDB.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\‏‏תיקיה חדשה\salaryCalculator\beckend\salary\salsryDB\obj\Debug\net6.0\salsryDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\‏‏תיקיה חדשה\salaryCalculator\beckend\salary\salsryDB\obj\Debug\net6.0\salsryDB.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\‏‏תיקיה חדשה\salaryCalculator\beckend\salary\salsryDB\obj\Debug\net6.0\salsryDB.AssemblyInfo.cs
+C:\Users\The user\Desktop\‏‏תיקיה חדשה\salaryCalculator\beckend\salary\salsryDB\obj\Debug\net6.0\salsryDB.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\‏‏תיקיה חדשה\salaryCalculator\beckend\salary\salsryDB\obj\Debug\net6.0\salsryDB.dll
+C:\Users\The user\Desktop\‏‏תיקיה חדשה\salaryCalculator\beckend\salary\salsryDB\obj\Debug\net6.0\refint\salsryDB.dll
+C:\Users\The user\Desktop\‏‏תיקיה חדשה\salaryCalculator\beckend\salary\salsryDB\obj\Debug\net6.0\salsryDB.pdb
+C:\Users\The user\Desktop\‏‏תיקיה חדשה\salaryCalculator\beckend\salary\salsryDB\obj\Debug\net6.0\ref\salsryDB.dll

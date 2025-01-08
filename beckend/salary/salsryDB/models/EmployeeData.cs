@@ -1,4 +1,4 @@
-﻿namespace Salary.models
+﻿namespace salsryDB.models
 {
     public class EmployeeData
     {

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Iavyd+s6DpyRPKrcnVgN+7NyZQS72Zx1J4FwTIEiQ1A7UPB9cltGpdluhkD4ikG06yU5vHjnGky6hNHfpF8Pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\The user\\Desktop\\‏‏תיקיה חדשה\\salaryCalculator\\beckend\\salary\\salsryDB\\salsryDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\The user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

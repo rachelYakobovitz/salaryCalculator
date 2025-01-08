@@ -1,8 +1,8 @@
-﻿using Salary.models;
+﻿using salsryDB.models;
 
-namespace Salary.services
+namespace salaryServices.services
 {
-    public class SalaryCalculatorService
+    public class SalaryCalculatorService : ISalaryCalculatorService
     {
         public SalaryCalculationResult CalculateSalary(EmployeeData employee)
         {

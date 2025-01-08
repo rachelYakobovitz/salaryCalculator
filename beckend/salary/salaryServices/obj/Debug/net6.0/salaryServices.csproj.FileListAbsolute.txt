@@ -1,0 +1,15 @@
+C:\Users\The user\Desktop\‏‏תיקיה חדשה\salaryCalculator\beckend\salary\salaryServices\bin\Debug\net6.0\salaryServices.deps.json
+C:\Users\The user\Desktop\‏‏תיקיה חדשה\salaryCalculator\beckend\salary\salaryServices\bin\Debug\net6.0\salaryServices.dll
+C:\Users\The user\Desktop\‏‏תיקיה חדשה\salaryCalculator\beckend\salary\salaryServices\bin\Debug\net6.0\salaryServices.pdb
+C:\Users\The user\Desktop\‏‏תיקיה חדשה\salaryCalculator\beckend\salary\salaryServices\bin\Debug\net6.0\salsryDB.dll
+C:\Users\The user\Desktop\‏‏תיקיה חדשה\salaryCalculator\beckend\salary\salaryServices\bin\Debug\net6.0\salsryDB.pdb
+C:\Users\The user\Desktop\‏‏תיקיה חדשה\salaryCalculator\beckend\salary\salaryServices\obj\Debug\net6.0\salaryServices.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\‏‏תיקיה חדשה\salaryCalculator\beckend\salary\salaryServices\obj\Debug\net6.0\salaryServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\‏‏תיקיה חדשה\salaryCalculator\beckend\salary\salaryServices\obj\Debug\net6.0\salaryServices.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\‏‏תיקיה חדשה\salaryCalculator\beckend\salary\salaryServices\obj\Debug\net6.0\salaryServices.AssemblyInfo.cs
+C:\Users\The user\Desktop\‏‏תיקיה חדשה\salaryCalculator\beckend\salary\salaryServices\obj\Debug\net6.0\salaryServices.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\‏‏תיקיה חדשה\salaryCalculator\beckend\salary\salaryServices\obj\Debug\net6.0\salaryServices.csproj.CopyComplete
+C:\Users\The user\Desktop\‏‏תיקיה חדשה\salaryCalculator\beckend\salary\salaryServices\obj\Debug\net6.0\salaryServices.dll
+C:\Users\The user\Desktop\‏‏תיקיה חדשה\salaryCalculator\beckend\salary\salaryServices\obj\Debug\net6.0\refint\salaryServices.dll
+C:\Users\The user\Desktop\‏‏תיקיה חדשה\salaryCalculator\beckend\salary\salaryServices\obj\Debug\net6.0\salaryServices.pdb
+C:\Users\The user\Desktop\‏‏תיקיה חדשה\salaryCalculator\beckend\salary\salaryServices\obj\Debug\net6.0\ref\salaryServices.dll

@@ -1,13 +1,13 @@
-using Salary.services;
+using salaryServices.services;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllers();
-builder.Services.AddScoped<SalaryCalculatorService>();
+builder.Services.AddScoped<ISalaryCalculatorService,SalaryCalculatorService>();
 
 // Add CORS policy
-builder.Services.AddCors(options =>
+builder.Services.AddCors(options => 
 {
     options.AddPolicy("AllowAllOrigins",
         builder =>
