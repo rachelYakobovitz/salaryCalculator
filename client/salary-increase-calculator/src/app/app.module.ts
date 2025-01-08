@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { HttpClientModule } from '@angular/common/http';
-import { FormsModule } from '@angular/forms';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { RouterModule } from '@angular/router'; // Import RouterModule
 import { AppRoutingModule } from './app-routing.module';
 
@@ -22,7 +22,8 @@ import { SalaryCalculatorChildComponent } from './salary-calculator/salary-calcu
     HttpClientModule,
     FormsModule,
     RouterModule, // Add RouterModule here
-    AppRoutingModule
+    AppRoutingModule,
+    ReactiveFormsModule
   ],
   providers: [SalaryCalculatorService],
   bootstrap: [AppComponent]

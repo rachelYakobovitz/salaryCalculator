@@ -2,28 +2,28 @@
 <table class="table table-bordered">
     <thead>
         <tr>
-            <th rowspan="3">שכר בסיס חדש</th>
-            <th colspan="13">חישוב רכיבי שכר בסיס</th>
+            <th class="green" rowspan="3">שכר בסיס חדש</th>
+            <th class="lightblue" colspan="13">חישוב רכיבי שכר בסיס</th>
         </tr>
         <tr>
-            <th rowspan="2">תוספת העלאת שכר</th>
-            <th rowspan="2">שיעור העלאת שכר</th>
-            <th rowspan="2">סה"כ שכר בסיס לפני העלאה</th>
-            <th rowspan="2">תוספת עבודה מתוקף מינוי בחוק</th>
-            <th colspan="2">תוספת עבודה מתוקף צינוי בחוק</th>
-            <th rowspan="2">תוספת וותק לשכר</th>
-            <th colspan="2">תוספת וותק לשכר</th>
-            <th rowspan="2">שכר יסוד לפי חלקיות משרה </th>
-            <th colspan="3">שכר יסוד</th>
+            <th class="lightgreen" rowspan="2">תוספת העלאת שכר</th>
+            <th class="lightgreen" rowspan="2">שיעור העלאת שכר</th>
+            <th class="lightgreen" rowspan="2">סה"כ שכר בסיס לפני העלאה</th>
+            <th class="lightgreen" rowspan="2">תוספת עבודה מתוקף מינוי בחוק</th>
+            <th class="lightblue" colspan="2">תוספת עבודה מתוקף צינוי בחוק</th>
+            <th class="lightgreen" rowspan="2">תוספת וותק לשכר</th>
+            <th class="lightblue" colspan="2">תוספת וותק לשכר</th>
+            <th class="lightgreen" rowspan="2">שכר יסוד לפי חלקיות משרה </th>
+            <th class="lightblue" colspan="3">שכר יסוד</th>
         </tr>
         <tr>
-            <td>עבור זכאי- שייכות לקבוצה א' או ב'?</td>
-            <td>זכאי לתוספת עבודה צינוי בחוק</td>
-            <td>שיעור תוספת וותק</td>
-            <td>סה"כ שנות וותק</td>
-            <td>רמה ניהולית</td>
-            <td>רמה מקצועית</td>
-            <td>חלקיות משרה</td>
+            <td class="lightgreen">עבור זכאי- שייכות לקבוצה א' או ב'?</td>
+            <td class="lightgreen">זכאי לתוספת עבודה צינוי בחוק</td>
+            <td class="lightblue">שיעור תוספת וותק</td>
+            <td class="lightblue">סה"כ שנות וותק</td>
+            <td class="lightblue">רמה ניהולית</td>
+            <td class="lightblue">רמה מקצועית</td>
+            <td class="lightblue">חלקיות משרה</td>
         </tr>
     </thead>
     <tbody>
@@ -33,15 +33,15 @@
             <td class="d">{{ salaryResult.salaryIncreaseRate }}%</td>
             <td class="d">{{ salaryResult.baseSalaryBeforeIncrease }}</td>
             <td class="d"> {{ salaryResult.additionalWorkSupplement }}</td>
-            <td>קבוצה {{employeeData?.group === 'A' ? 'א' : 'ב'}}</td>
-            <td>{{employeeData?.entitledToAdditionalWork=== true ? 'כן' : 'לא'}}</td>
+            <td class="white">קבוצה {{employeeData?.group === 'A' ? 'א' : 'ב'}}</td>
+            <td class="white">{{employeeData?.entitledToAdditionalWork=== true ? 'כן' : 'לא'}}</td>
             <td class="d">{{ salaryResult.senioritySupplement }}</td>
             <td class="d">{{ salaryResult.seniorityIncreaseRate }}</td>
-            <td>{{employeeData?.yearsOfSeniority}}</td>
+            <td class="white">{{employeeData?.yearsOfSeniority}}</td>
             <td class="d">{{ salaryResult.basicSalary }}</td>
-            <td>רמת ניהול {{employeeData?.managementLevel}}</td>
-            <td>{{ employeeData?.professionalLevel === 'experienced' ? 'מנוסה' : 'מתחיל' }}</td>
-            <td>{{employeeData?.partTimePosition}}%</td>
+            <td class="white">רמת ניהול {{employeeData?.managementLevel}}</td>
+            <td class="white">{{ employeeData?.professionalLevel === 'experienced' ? 'מנוסה' : 'מתחיל' }}</td>
+            <td class="white">{{employeeData?.partTimePosition}}%</td>
         </tr>
     </tbody>
 </table>
